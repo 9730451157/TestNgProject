@@ -31,6 +31,8 @@ public class TestNgProgram {
 		String title = driver.getTitle();
 
 		System.out.println(title);
+		
+		System.out.println("i love programming");
 	}
 
 	@AfterTest
